@@ -68,7 +68,7 @@ img {
 .big-image-project {
     height: 300px;
     margin-bottom: 25px;
-    background-image: url("./image.png")
+    background-image: url("./image.jpg")
     width: 100%;
     background-size: cover;
     background-position: center;
