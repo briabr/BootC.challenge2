@@ -91,6 +91,10 @@ img {
     width: 100%;
     min-width: 400px;
 } 
+.project-image2{
+    width: 80%;
+    min-width: 350px;
+} 
 .first-project-container{
     display: flex;
     justify-content: center;
